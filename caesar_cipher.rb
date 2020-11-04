@@ -27,4 +27,4 @@ def caesar_cipher(input, shift = 0)
     puts return_str
 end
 
-caesar_cipher("ABC abc #_ zZ", 1)
+caesar_cipher("ABC abc #_ zZ", 2)
